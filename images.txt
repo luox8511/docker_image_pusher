@@ -10,3 +10,6 @@ ydkn/cups
 pixman/pixman
 youshandefeiyang/allinone
 ricwang/docker-wechat
+guovern/iptv-api
+guovern/iptv-api:lite
+
