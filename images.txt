@@ -7,4 +7,6 @@ xhofe/alist:latest
 chuckcharlie/cups-avahi-airprint
 ydkn/cups
 #cups
-
+pixman/pixman
+youshandefeiyang/allinone
+ricwang/docker-wechat
