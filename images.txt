@@ -11,4 +11,4 @@ guovern/iptv-api
 guovern/iptv-api:lite
 xhongc/music_tag_web
 #musictag
-deluan/navideome
+deluan/navidrome
