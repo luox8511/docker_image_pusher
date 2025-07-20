@@ -12,3 +12,4 @@ guovern/iptv-api:lite
 xhongc/music_tag_web
 #musictag
 deluan/navidrome
+fatedier/frp
